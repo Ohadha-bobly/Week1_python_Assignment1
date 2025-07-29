@@ -59,7 +59,7 @@ The result of 10.0 + 5.0 is: 15.0
    git clone https://github.com/Ohadha-bobly/Week1_python_Assignment1.git
    cd Week1_python_Assignment1
 2. Run the Python script:
-   python calculator.py
+   python Intro.py
 💡 Make sure Python is installed on your system.
 
 📁 File Structure
